@@ -1,16 +1,4 @@
-# CPSC 254 Final-Project
-
-Add the following details to the **README.md** file
-
-A. Group Member Details such as NAME, CWID and EMAIL
-
-Javier Diaz | 888005329 | jdiaz194@csu.fullerton.edu
-
-Kenny Dang | 893244145 | kdangdo2000@csu.fullerton.edu
-
-Bemwa Habashy | 886941491 | bemwahabashy@csu.fullerton.edu
-
-Andrew Jung | 887394708 | andrew9078@csu.fullerton.edu
+This is my final project for CPSC 254. It is a turn based RPG based of the likes of Pokemon and Final fantasy.
 
 B. A brief description about your project
 
@@ -74,10 +62,3 @@ https://www.dropbox.com/sh/korcuoodckj7f0e/AACzgCQ5k3vklS-UakNs_H5ga?dl=0
 ```
 
 2. Download the windows executable file for the game through this link
-
-``
-https://www.dropbox.com/sh/4f1w3ogn8143i0v/AAAcFWdVktYf4hV1lMM7pqo0a?dl=0
-
-
-Presentation: https://docs.google.com/presentation/d/10cKgAtWAMNbxqasmy5saxFcX-ntMxt_gL05Frit5RiA/edit?usp=sharing
-```
