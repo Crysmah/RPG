@@ -1,0 +1,7 @@
+Start by installing Python into your system.
+
+Follow this online tutorial: https://www.digitalocean.com/community/tutorials/install-python-windows-10
+
+Then you will to install pygame.
+
+https://www.pygame.org/wiki/GettingStarted
