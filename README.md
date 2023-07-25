@@ -60,5 +60,3 @@ Download Executable of the game
 ```
 https://www.dropbox.com/sh/korcuoodckj7f0e/AACzgCQ5k3vklS-UakNs_H5ga?dl=0
 ```
-
-2. Download the windows executable file for the game through this link
