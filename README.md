@@ -1,4 +1,4 @@
-This is my final project for CPSC 254. It is a turn based RPG based of the likes of Pokemon and Final fantasy.
+This is a final project for one of my undergraduate classes
 
 B. A brief description about your project
 
